@@ -6,6 +6,7 @@ function Section4() {
     <>
       <Box
         sx={{
+          border:'solid',
           display: "flex",
           margin: "0px 64px",
           paddingBottom: "30px",
