@@ -10,6 +10,7 @@ function Home() {
   return (<>
   <Navbar/>
   <Section1/>
+  
   <Typography>Feature grid</Typography>
   <Section2/>
   <Typography>Horizontal Scroll</Typography>

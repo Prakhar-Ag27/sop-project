@@ -7,7 +7,7 @@ function Navbar() {
       <Box>
         <AppBar sx={{ background: "#DDD", boxShadow: "0", height: "92px" }}>
           <Toolbar>
-            <Typography>NavBar</Typography>
+            <Typography color='black'>Borders denote different components</Typography>
           </Toolbar>
         </AppBar>
       </Box>
